@@ -1,1 +1,7 @@
 @import "./lib/display.css";
+@import "./lib/display-dbl.css";
+@import "./lib/display-dsk.css";
+@import "./lib/display-lap.css";
+@import "./lib/display-max.css";
+@import "./lib/display-plm.css";
+@import "./lib/display-prt.css";

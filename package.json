@@ -1,6 +1,6 @@
 {
-  "name": "suitcss-utils-display",
-  "description": "Display utilities for SUIT CSS",
+  "name": "@precisionnutrition/utils-display",
+  "description": "Display utilities",
   "version": "1.0.1",
   "style": "index.css",
   "files": [
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/suitcss/utils-display.git"
+    "url": "git://github.com/precisionnutrition/utils-display.git"
   },
   "keywords": [
     "browser",
