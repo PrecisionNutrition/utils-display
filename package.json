@@ -1,7 +1,7 @@
 {
   "name": "@precisionnutrition/utils-display",
   "description": "Display utilities",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "style": "index.css",
   "files": [
     "index.css",

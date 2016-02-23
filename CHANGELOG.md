@@ -1,5 +1,10 @@
 ### HEAD
 
+### 2.0.0 (February 23, 2016)
+
+* Enable linting
+* Add common breakpoints
+
 ### 1.0.1 (February 08, 2016)
 
 * Update `preprocessor` to `1.0.0`
